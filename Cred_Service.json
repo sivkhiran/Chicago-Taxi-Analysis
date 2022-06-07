@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "angular-argon-307703",
+  "private_key_id": "26ca7a12ec3cb280369327e42878eb8c7249e47a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxxWVjxgfrbI1X\nGayYf4Uoz3qx5LEVf5H0vwQC55yWUgBYIkY6FYMJd5D4p9my0jBWgFWjjJWw5niA\nqNYd/PLlEjalZlZmgUlw3/5D3dkAFPHtYZZ1T11phUn/9RF4wbdwFYmOrl9ccFGr\nexamXrX0Xy73IAPq8wIO9rK341wWgsag8LKdqQylcrLKA+cQubv/H3EG918PmLP0\n/4WDVqDEBni47dLU+ye84JLdW8RZV1PG5Lo2xuh0JknwM8EKY6MDOrafWryx0qAa\nxosQ1IiaX95yB2qwaTF5Rlo1MGvvnXOylogdCbXSfE6SSvFVz+YzcU9HhuL56U0H\nkzfz6jj1AgMBAAECggEAF7cIYVDF9jFXQp8VcAuU8T6KdOhX+lD4IOEJkTSiJkh+\nrMM3wKBliHIHqDBGIa2aDrQUmJqUzpJUUX+UftAjfA0btqFqFccaC8GJ6zZRcEob\nAwqhdnlVshG6rzdbcxNOnBh3bw4SgSOntXtYaG3akqTPAF8oPqPX6rSc31yoiIUE\nkYQPzzTxFFOJTea12cJPW0ZcFZqqZpzz63aFjDBSybsvTYU+nub5IYwijOYRjgIo\n5cWAwPnx4cUOc1/QGIG5J9wD8YHo5MqLBOUHPmj89n5G8IEFCDAdpDfqMX2/79yp\nVVuwGUZZlroANTHCqZxSxoH9oKHLRHQb0a8NnTKEyQKBgQD4qMlWZmX9sfW304oR\nK/TlGt451iROQ+79F4e7J66goyzYMk/CAN7PTe9Nt7XDomzDa0gPa5KAy3yAk7fb\nAiR4QFKnoqFfPEsFzxTZWPDipUu33G1oNcGe7yDiA7F42pKp7fqGB4dWpR4YQqyq\nC43ny/NfP+7TRHyT7iAUiGCHyQKBgQC3BOFJoQL/OBsU2XFnBT6eDc5ZSFwB3Heq\nA1Z7iJ1DIUDmzXKhRPkgUoCfJlkEGgFtmHRPMAAILjevZAQnNAj6H11lGIf0ohNt\nTn8VpnXEJaKIlL0u07lqx8R2ec7YkIp4qG7Ixipc+pdocT+35x5iM0LBhRbNMjBn\nFpk7aKoVzQKBgAlYVpC/sm+RY5mwAo1YqJB/rQBhcuXaGb47Ryeaey6gU0wgv+yb\nmcQSur6h+9vJW+sQOhoSQeRDQX+XjZ5We0ZlrHWOYCAzJOKoALGWbR8ndSwIxbfX\n5VnyxLqZxu6y0DZAslydJdH0zKe+wbx2SLQAbzoSLgiUl1X76gq7gV05AoGAVlER\n48Txgec3No0bI+hgUPDX+lnbMvGE6oUqe5bB/NApKPGKd67tBCaFDQpr/zg4pjS5\n3kMYMMODdc/o+YhcF4NFbBG2xVTPbsUPwOlCL6FEV8A2vWgT0d2nteza9l6tQBzI\nKx7zCekSEasfzx9MwCnG+ThIubxLAcOxv0gst50CgYEAlfMRVBEp/9WMyfK16usl\nRS9XSOk9vPsiTOVTKNzSNIroKuu1rgNqQPeUVHiOQ6S0fLB4Bw8Wfe1yQKJ+Byw/\nYv80xyxpWIxCzfV9sh1vkABm1DYDAbnDsO0vyyTyCi2G93cX4D7F6ITnI5lTAUz2\ncieOkAFeAtsTk2yNSJGL1Hc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chicago-taxiusage-dataset@angular-argon-307703.iam.gserviceaccount.com",
+  "client_id": "103229150454013433816",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chicago-taxiusage-dataset%40angular-argon-307703.iam.gserviceaccount.com"
+}
